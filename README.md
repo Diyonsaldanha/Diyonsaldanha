@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Diyon</h1>
-<h3 align="center">💻 Full-stack Web Developer 🚀</h3>
+<h3 align="center">💻 Full-stack Developer 🚀</h3>
 
 <p align="center">
   <em>Turning complex ideas into clean, scalable applications.</em>
