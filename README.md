@@ -29,12 +29,12 @@
 
   <h4>Languages & Frameworks</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=laravel,vue,js,typescript,nodejs,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,laravel,nodejs,php" />
   </p>
 
   <h4>Frontend & Styling</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
   </p>
 
   <h4>Databases & Tools</h4>
@@ -42,6 +42,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,githubactions,postman" />
   </p>
 </div>
+
 
 <hr/>
 
